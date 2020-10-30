@@ -48,7 +48,7 @@ const App: () => React$Node = () => {
             source={{uri:'https://cdn.communitydragon.org/latest/champion/graves/tile'}}
             style={{width: 150, height: 150, borderRadius: 400/2,position: 'absolute',top: 200,alignSelf:'center'}} />
               <Text  style={{color:Colors.white}}>
-              Merhebalar , {"\n"}{"\n"}
+              Merhabalar , {"\n"}{"\n"}
 
               Ben Yusuf. 21 Yaşındayım ve Gebzede STFA Anadolu Meslek Lisesinde Okudum.4 Yıldır UI&UX Developer Olarak Kocaeli Bilişim Vadisinde Çalışıyorum.{"\n"}{"\n"}
 
